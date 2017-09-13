@@ -1,0 +1,8 @@
+#output {
+  margin-top: 50px;
+}
+
+#output p {
+  text-transform: uppercase;
+  color: solid red;
+}
